@@ -1,0 +1,32 @@
+﻿@model List<Movie>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Top Movies</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Image</th>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Rating</th>
+            <th>Genres</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Id</td>
+                <td><img src="@movie.ImageUrl" alt="@movie.Name" width="67" /></td>
+                <td>@movie.Name</td>
+                <td>@movie.Year</td>
+                <td>@movie.Rating</td>
+                <td>@string.Join(", ", movie.Genres.Select(x => x.Name))</td>
+            </tr>
+        } 
+    </tbody>
+</table>

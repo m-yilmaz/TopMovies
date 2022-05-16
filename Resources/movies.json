@@ -1,0 +1,802 @@
+[
+  {
+    "id": "tt0111161",
+    "name": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt0068646",
+    "name": "The Godfather",
+    "year": 1972,
+    "rating": 9.2,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": "crime, drama"
+  },
+  {
+    "id": "tt0468569",
+    "name": "The Dark Knight",
+    "year": 2008,
+    "rating": 9,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, crime, drama"
+  },
+  {
+    "id": "tt0167260",
+    "name": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "rating": 9,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, drama"
+  },
+  {
+    "id": "tt0108052",
+    "name": "Schindler's List",
+    "year": 1993,
+    "rating": 9,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "biography, drama, history"
+  },
+  {
+    "id": "tt0071562",
+    "name": "The Godfather: Part II",
+    "year": 1974,
+    "rating": 9,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": "crime, drama"
+  },
+  {
+    "id": "tt0050083",
+    "name": "12 Angry Men",
+    "year": 1957,
+    "rating": 9,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama"
+  },
+  {
+    "id": "tt0110912",
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "rating": 8.9,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama"
+  },
+  {
+    "id": "tt6710474",
+    "name": "Everything Everywhere All at Once",
+    "year": 2022,
+    "rating": 8.8,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, comedy"
+  },
+  {
+    "id": "tt1375666",
+    "name": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, sci-fi"
+  },
+  {
+    "id": "tt0167261",
+    "name": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "rating": 8.8,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, drama"
+  },
+  {
+    "id": "tt0137523",
+    "name": "Fight Club",
+    "year": 1999,
+    "rating": 8.8,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt0120737",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": 8.8,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, drama"
+  },
+  {
+    "id": "tt0109830",
+    "name": "Forrest Gump",
+    "year": 1994,
+    "rating": 8.8,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, romance"
+  },
+  {
+    "id": "tt0060196",
+    "name": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "rating": 8.8,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "adventure, western"
+  },
+  {
+    "id": "tt0133093",
+    "name": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, sci-fi"
+  },
+  {
+    "id": "tt0099685",
+    "name": "Goodfellas",
+    "year": 1990,
+    "rating": 8.7,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "biography, crime, drama"
+  },
+  {
+    "id": "tt0080684",
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "rating": 8.7,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, fantasy"
+  },
+  {
+    "id": "tt0073486",
+    "name": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "rating": 8.7,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt0816692",
+    "name": "Interstellar",
+    "year": 2014,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "adventure, drama, sci-fi"
+  },
+  {
+    "id": "tt0317248",
+    "name": "City of God",
+    "year": 2002,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama"
+  },
+  {
+    "id": "tt0245429",
+    "name": "Spirited Away",
+    "year": 2001,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, adventure, family"
+  },
+  {
+    "id": "tt0120815",
+    "name": "Saving Private Ryan",
+    "year": 1998,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, war"
+  },
+  {
+    "id": "tt0120689",
+    "name": "The Green Mile",
+    "year": 1999,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, fantasy"
+  },
+  {
+    "id": "tt0118799",
+    "name": "Life Is Beautiful",
+    "year": 1997,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, drama, romance"
+  },
+  {
+    "id": "tt0114369",
+    "name": "Se7en",
+    "year": 1995,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, mystery"
+  },
+  {
+    "id": "tt0103064",
+    "name": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, sci-fi"
+  },
+  {
+    "id": "tt0102926",
+    "name": "The Silence of the Lambs",
+    "year": 1991,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, thriller"
+  },
+  {
+    "id": "tt0076759",
+    "name": "Star Wars",
+    "year": 1977,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, fantasy"
+  },
+  {
+    "id": "tt0056058",
+    "name": "Hara-Kiri",
+    "year": 1962,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY98_CR2,0,67,98_AL_.jpg",
+    "genre": "action, drama, mystery"
+  },
+  {
+    "id": "tt0047478",
+    "name": "Seven Samurai",
+    "year": 1954,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": "action, drama"
+  },
+  {
+    "id": "tt0038650",
+    "name": "It's a Wonderful Life",
+    "year": 1946,
+    "rating": 8.6,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, family, fantasy"
+  },
+  {
+    "id": "tt6751668",
+    "name": "Parasite",
+    "year": 2019,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, drama, thriller"
+  },
+  {
+    "id": "tt2582802",
+    "name": "Whiplash",
+    "year": 2014,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, music"
+  },
+  {
+    "id": "tt1675434",
+    "name": "The Intouchables",
+    "year": 2011,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "biography, comedy, drama"
+  },
+  {
+    "id": "tt0482571",
+    "name": "The Prestige",
+    "year": 2006,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, mystery, thriller"
+  },
+  {
+    "id": "tt0407887",
+    "name": "The Departed",
+    "year": 2006,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, thriller"
+  },
+  {
+    "id": "tt0253474",
+    "name": "The Pianist",
+    "year": 2002,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR2,0,67,98_AL_.jpg",
+    "genre": "biography, drama, music"
+  },
+  {
+    "id": "tt0172495",
+    "name": "Gladiator",
+    "year": 2000,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, drama"
+  },
+  {
+    "id": "tt0120586",
+    "name": "American History X",
+    "year": 1998,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt0114814",
+    "name": "The Usual Suspects",
+    "year": 1995,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, mystery"
+  },
+  {
+    "id": "tt0110413",
+    "name": "Léon: The Professional",
+    "year": 1994,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, crime, drama"
+  },
+  {
+    "id": "tt0110357",
+    "name": "The Lion King",
+    "year": 1994,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, adventure, drama"
+  },
+  {
+    "id": "tt0095765",
+    "name": "Cinema Paradiso",
+    "year": 1988,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, romance"
+  },
+  {
+    "id": "tt0095327",
+    "name": "Grave of the Fireflies",
+    "year": 1988,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, drama, war"
+  },
+  {
+    "id": "tt0088763",
+    "name": "Back to the Future",
+    "year": 1985,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "adventure, comedy, sci-fi"
+  },
+  {
+    "id": "tt0078788",
+    "name": "Apocalypse Now",
+    "year": 1979,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, mystery, war"
+  },
+  {
+    "id": "tt0078748",
+    "name": "Alien",
+    "year": 1979,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "horror, sci-fi"
+  },
+  {
+    "id": "tt0064116",
+    "name": "Once Upon a Time in the West",
+    "year": 1968,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "western"
+  },
+  {
+    "id": "tt0054215",
+    "name": "Psycho",
+    "year": 1960,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "horror, mystery, thriller"
+  },
+  {
+    "id": "tt0047396",
+    "name": "Rear Window",
+    "year": 1954,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "mystery, thriller"
+  },
+  {
+    "id": "tt0034583",
+    "name": "Casablanca",
+    "year": 1942,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, romance, war"
+  },
+  {
+    "id": "tt0027977",
+    "name": "Modern Times",
+    "year": 1936,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, drama, romance"
+  },
+  {
+    "id": "tt0021749",
+    "name": "City Lights",
+    "year": 1931,
+    "rating": 8.5,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, drama, romance"
+  },
+  {
+    "id": "tt8267604",
+    "name": "Capernaum",
+    "year": 2018,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt7286456",
+    "name": "Joker",
+    "year": 2019,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, thriller"
+  },
+  {
+    "id": "tt5311514",
+    "name": "Your Name.",
+    "year": 2016,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, drama, fantasy"
+  },
+  {
+    "id": "tt4633694",
+    "name": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, action, adventure"
+  },
+  {
+    "id": "tt4154796",
+    "name": "Avengers: Endgame",
+    "year": 2019,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, drama"
+  },
+  {
+    "id": "tt4154756",
+    "name": "Avengers: Infinity War",
+    "year": 2018,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, sci-fi"
+  },
+  {
+    "id": "tt2380307",
+    "name": "Coco",
+    "year": 2017,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": "animation, adventure, comedy"
+  },
+  {
+    "id": "tt1853728",
+    "name": "Django Unchained",
+    "year": 2012,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, western"
+  },
+  {
+    "id": "tt1345836",
+    "name": "The Dark Knight Rises",
+    "year": 2012,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, crime, drama"
+  },
+  {
+    "id": "tt1187043",
+    "name": "3 Idiots",
+    "year": 2009,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, drama"
+  },
+  {
+    "id": "tt0910970",
+    "name": "WALL·E",
+    "year": 2008,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, adventure, family"
+  },
+  {
+    "id": "tt0405094",
+    "name": "The Lives of Others",
+    "year": 2006,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, mystery, thriller"
+  },
+  {
+    "id": "tt0364569",
+    "name": "Oldboy",
+    "year": 2003,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, drama, mystery"
+  },
+  {
+    "id": "tt0209144",
+    "name": "Memento",
+    "year": 2000,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "mystery, thriller"
+  },
+  {
+    "id": "tt0169547",
+    "name": "American Beauty",
+    "year": 1999,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt0119698",
+    "name": "Princess Mononoke",
+    "year": 1997,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, action, adventure"
+  },
+  {
+    "id": "tt0112573",
+    "name": "Braveheart",
+    "year": 1995,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "biography, drama, history"
+  },
+  {
+    "id": "tt0090605",
+    "name": "Aliens",
+    "year": 1986,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, sci-fi"
+  },
+  {
+    "id": "tt0086879",
+    "name": "Amadeus",
+    "year": 1984,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "biography, drama, music"
+  },
+  {
+    "id": "tt0082971",
+    "name": "Indiana Jones and the Raiders of the Lost Ark",
+    "year": 1981,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure"
+  },
+  {
+    "id": "tt0082096",
+    "name": "The Boat",
+    "year": 1981,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, war"
+  },
+  {
+    "id": "tt0081505",
+    "name": "The Shining",
+    "year": 1980,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, horror"
+  },
+  {
+    "id": "tt0057565",
+    "name": "High and Low",
+    "year": 1963,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, mystery"
+  },
+  {
+    "id": "tt0057012",
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, war"
+  },
+  {
+    "id": "tt0051201",
+    "name": "Witness for the Prosecution",
+    "year": 1957,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, mystery"
+  },
+  {
+    "id": "tt0050825",
+    "name": "Paths of Glory",
+    "year": 1957,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, war"
+  },
+  {
+    "id": "tt0043014",
+    "name": "Sunset Blvd.",
+    "year": 1950,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, film-noir"
+  },
+  {
+    "id": "tt0032553",
+    "name": "The Great Dictator",
+    "year": 1940,
+    "rating": 8.4,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, drama, war"
+  },
+  {
+    "id": "tt2106476",
+    "name": "The Hunt",
+    "year": 2012,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt0435761",
+    "name": "Toy Story 3",
+    "year": 2010,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "genre": "animation, adventure, comedy"
+  },
+  {
+    "id": "tt0361748",
+    "name": "Inglourious Basterds",
+    "year": 2009,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "adventure, drama, war"
+  },
+  {
+    "id": "tt0338013",
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, romance, sci-fi"
+  },
+  {
+    "id": "tt0211915",
+    "name": "Amélie",
+    "year": 2001,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, romance"
+  },
+  {
+    "id": "tt0180093",
+    "name": "Requiem for a Dream",
+    "year": 2000,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama"
+  },
+  {
+    "id": "tt0119217",
+    "name": "Good Will Hunting",
+    "year": 1997,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, romance"
+  },
+  {
+    "id": "tt0114709",
+    "name": "Toy Story",
+    "year": 1995,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "animation, adventure, comedy"
+  },
+  {
+    "id": "tt0105236",
+    "name": "Reservoir Dogs",
+    "year": 1992,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama, thriller"
+  },
+  {
+    "id": "tt0087843",
+    "name": "Once Upon a Time in America",
+    "year": 1984,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, drama"
+  },
+  {
+    "id": "tt0086190",
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, fantasy"
+  },
+  {
+    "id": "tt0062622",
+    "name": "2001: A Space Odyssey",
+    "year": 1968,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "adventure, sci-fi"
+  },
+  {
+    "id": "tt0056172",
+    "name": "Lawrence of Arabia",
+    "year": 1962,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": "adventure, biography, drama"
+  },
+  {
+    "id": "tt0053125",
+    "name": "North by Northwest",
+    "year": 1959,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "action, adventure, mystery"
+  },
+  {
+    "id": "tt0052357",
+    "name": "Vertigo",
+    "year": 1958,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "mystery, romance, thriller"
+  },
+  {
+    "id": "tt0045152",
+    "name": "Singin' in the Rain",
+    "year": 1952,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY98_CR0,0,67,98_AL_.jpg",
+    "genre": "comedy, musical, romance"
+  },
+  {
+    "id": "tt0033467",
+    "name": "Citizen Kane",
+    "year": 1941,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "drama, mystery"
+  },
+  {
+    "id": "tt0022100",
+    "name": "M",
+    "year": 1931,
+    "rating": 8.3,
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "genre": "crime, mystery, thriller"
+  }
+]
