@@ -53,6 +53,11 @@ namespace TopMovies
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                   name: "homeWithGenre",
+                   pattern: "genre/{genreName}",
+                   defaults: new { controller = "Home", action = "IndexWithGenre" });
+
+                endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });

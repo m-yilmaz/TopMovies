@@ -1,32 +1,57 @@
-﻿@model List<Movie>
+﻿@model HomeViewModel
 @{
     ViewData["Title"] = "Home Page";
 }
 
-<h1>Top Movies</h1>
+<div class="row">
+    <div class="col-sm-3">
+        <h4 class="mt-2 ">Genres</h4>
+        <div class="list-group">
+            <a asp-action="Index" asp-route-gid="" class="list-group-item list-group-item-action @(Model.GenreId.HasValue ? "" : "active")">All</a>
+            @foreach (var genre in Model.Genres)
+            {
+                <a asp-action="IndexWithGenre" asp-route-genreName="@genre.Name" class="d-flex align-items-baseline list-group-item list-group-item-action @(genre.Id == Model.GenreId ? "active" : "")">
+                    @genre.Name
+                <span class="badge badge-secondary ml-auto">@genre.MovieCount</span>
+            </a>
+        }
+        </div>
+    </div>
+    <div class="col-sm-9">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Image</th>
+                    <th>Title</th>
+                    <th>Year</th>
+                    <th>Rating</th>
+                    <th>Genres</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var movie in Model.Movies)
+                {
+                    <tr>
+                        <td>@movie.Id</td>
+                        <td><img src="@movie.ImageUrl" alt="@movie.Name" width="67" /></td>
+                        <td>
+                            <a href="https://www.imdb.com/title/@movie.ImdbId/" target="_blank">@movie.Name</a>
+                        </td>
+                        <td>@movie.Year</td>
+                        <td>@movie.Rating</td>
+                        <td>@string.Join(", ", movie.Genres.Select(x => x.Name))</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>#</th>
-            <th>Image</th>
-            <th>Title</th>
-            <th>Year</th>
-            <th>Rating</th>
-            <th>Genres</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var movie in Model)
-        {
-            <tr>
-                <td>@movie.Id</td>
-                <td><img src="@movie.ImageUrl" alt="@movie.Name" width="67" /></td>
-                <td>@movie.Name</td>
-                <td>@movie.Year</td>
-                <td>@movie.Rating</td>
-                <td>@string.Join(", ", movie.Genres.Select(x => x.Name))</td>
-            </tr>
-        } 
-    </tbody>
-</table>
+
+
+@section Scripts{
+    <script>
+        $(".table").DataTable();
+    </script>
+}

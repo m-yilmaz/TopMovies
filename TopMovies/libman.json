@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "datatables.net@1.12.0",
+      "destination": "wwwroot/lib/datatables.net/"
+    },
+    {
+      "library": "datatables.net-bs4@1.12.0",
+      "destination": "wwwroot/lib/datatables.net-bs4/"
+    }
+  ]
+}

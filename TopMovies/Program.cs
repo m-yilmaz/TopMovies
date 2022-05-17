@@ -15,13 +15,15 @@ namespace TopMovies
     {
         public static void Main(string[] args)
         {
-            var host = CreateHostBuilder(args).Build();
-            using (var scope = host.Services.CreateScope())
-            {
-                var dbContext = scope.ServiceProvider.GetService<ApplicationDbContext>();
-                ApplicationDbContextSeed.Seed(dbContext);
-            }
-            host.Run();
+            //var host = CreateHostBuilder(args).Build();
+            //using (var scope = host.Services.CreateScope())
+            //{
+            //    var dbContext = scope.ServiceProvider.GetService<ApplicationDbContext>();
+            //    ApplicationDbContextSeed.Seed(dbContext);
+            //}
+            //host.Run();
+
+            CreateHostBuilder(args).Build().Run();  
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
